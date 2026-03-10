@@ -1427,15 +1427,6 @@ A flat list view of all resources. Category: **All** | Sorted: by date created
 <td colspan="4"><img src="https://img.shields.io/github/stars/aRustyDev/pre-commit-hooks?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/aRustyDev/pre-commit-hooks?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/aRustyDev/pre-commit-hooks?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/aRustyDev/pre-commit-hooks?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/aRustyDev/pre-commit-hooks?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/aRustyDev/pre-commit-hooks?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/aRustyDev/pre-commit-hooks?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/aRustyDev/pre-commit-hooks?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/aRustyDev/pre-commit-hooks?style=flat-square" alt="license"></td>
 </tr>
 <tr>
-<td><a href="https://github.com/GaloyMoney/lana-bank/blob/main/.claude/commands/mermaid.md"><b>/mermaid</b></a><br>by <a href="https://github.com/GaloyMoney">GaloyMoney</a></td>
-<td>Slash-Commands</td>
-<td>Miscellaneous</td>
-<td>Generates Mermaid diagrams from SQL schema files, creating entity relationship diagrams with table properties, validating diagram compilation, and ensuring complete entity coverage.</td>
-</tr>
-<tr>
-<td colspan="4"><img src="https://img.shields.io/github/stars/GaloyMoney/lana-bank?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/GaloyMoney/lana-bank?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/GaloyMoney/lana-bank?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/GaloyMoney/lana-bank?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/GaloyMoney/lana-bank?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/GaloyMoney/lana-bank?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/GaloyMoney/lana-bank?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/GaloyMoney/lana-bank?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/GaloyMoney/lana-bank?style=flat-square" alt="license"></td>
-</tr>
-<tr>
 <td><a href="https://github.com/steadycursor/steadystart/tree/main/.claude/commands"><b>Project Bootstrapping and Task Management</b></a><br>by <a href="https://github.com/steadycursor">steadycursor</a></td>
 <td>Workflows & Knowledge Guides</td>
 <td>General</td>
@@ -1773,6 +1764,6 @@ A flat list view of all resources. Category: **All** | Sorted: by date created
 
 ---
 
-**Total Resources:** 192
+**Total Resources:** 191
 
-**Last Generated:** 2026-03-02
+**Last Generated:** 2026-03-10

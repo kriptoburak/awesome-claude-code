@@ -60,9 +60,9 @@ A flat list view of all resources. Category: **Status** | Sorted: by latest rele
 <tbody>
 <tr>
 <td><a href="https://github.com/rz1989s/claude-code-statusline"><b>claude-code-statusline</b></a><br>by <a href="https://github.com/rz1989s">rz1989s</a></td>
-<td>v2.19.0</td>
+<td>v2.21.1</td>
 <td>GitHub</td>
-<td>2026-02-28</td>
+<td>2026-03-08</td>
 <td>Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring</td>
 </tr>
 <tr>
@@ -95,4 +95,4 @@ A flat list view of all resources. Category: **Status** | Sorted: by latest rele
 
 **Total Resources:** 3
 
-**Last Generated:** 2026-03-02
+**Last Generated:** 2026-03-10

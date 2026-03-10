@@ -199,18 +199,6 @@ _Prompt injection scanner for Claude Code hooks. Scans tool inputs and outputs f
 _Auto-approve safe bash commands using AST-based parsing, while prompting for destructive operations. Solves permission fatigue without disabling safety. Supports Claude Code, Gemini CLI, and Cursor._  
 ![GitHub Stats for Dippy](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=Dippy&username=ldayton&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
-<a href="https://github.com/sudocode-ai/sudocode"><img src="../assets/badge-sudocode.svg" alt="sudocode"></a>  
-_Lightweight agent orchestration dev tool that lives in your repo. Integrates with various specification frameworks. It's giving Jira._  
-![GitHub Stats for sudocode](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=sudocode&username=sudocode-ai&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
-
-<a href="https://github.com/nielsgroen/claude-tmux"><img src="../assets/badge-claude-tmux.svg" alt="claude-tmux"></a>  
-_Manage Claude Code within tmux. A tmux popup of all your Claude Code instances, enabling quick switching, status monitoring, session lifecycle management, with git worktree and pull request support._  
-![GitHub Stats for claude-tmux](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-tmux&username=nielsgroen&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
-
-<a href="https://github.com/phiat/claude-esp"><img src="../assets/badge-claude-esp.svg" alt="claude-esp"></a>  
-_Go-based TUI that streams Claude Code's hidden output (thinking, tool calls, subagents) to a separate terminal. Watch multiple sessions simultaneously, filter by content type, and track background tasks. Ideal for debugging or understanding what Claude is doing under the hood without interrupting your main session._  
-![GitHub Stats for claude-esp](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-esp&username=phiat&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
-
 
 <br>
 
@@ -1894,13 +1882,6 @@ _A convenient command to quickly manage project todo items without leaving the C
 <a href="https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/fixing_go_in_graph.md"><img src="../assets/badge-fixing-go-in-graph.svg" alt="/fixing_go_in_graph"></a>  
 _Focuses on Gene Ontology annotation integration in graph databases, handling multiple data sources, addressing graph representation issues, and ensuring correct data incorporation._  
 ![GitHub Stats for torchcell](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=torchcell&username=Mjvolk3&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
-
-<div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
-
-
-<a href="https://github.com/GaloyMoney/lana-bank/blob/main/.claude/commands/mermaid.md"><img src="../assets/badge-mermaid.svg" alt="/mermaid"></a>  
-_Generates Mermaid diagrams from SQL schema files, creating entity relationship diagrams with table properties, validating diagram compilation, and ensuring complete entity coverage._  
-![GitHub Stats for lana-bank](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=lana-bank&username=GaloyMoney&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 <div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
 

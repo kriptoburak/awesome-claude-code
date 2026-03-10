@@ -79,39 +79,6 @@ Auto-approve safe bash commands using AST-based parsing, while prompting for des
 </details>
 <br>
 
-[`sudocode`](https://github.com/sudocode-ai/sudocode) &nbsp; by &nbsp; [ssh-randy](https://github.com/ssh-randy)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
-Lightweight agent orchestration dev tool that lives in your repo. Integrates with various specification frameworks. It's giving Jira.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for sudocode](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=sudocode&username=sudocode-ai&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`claude-tmux`](https://github.com/nielsgroen/claude-tmux) &nbsp; by &nbsp; [Niels Groeneveld](https://github.com/nielsgroen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
-Manage Claude Code within tmux. A tmux popup of all your Claude Code instances, enabling quick switching, status monitoring, session lifecycle management, with git worktree and pull request support.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for claude-tmux](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-tmux&username=nielsgroen&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`claude-esp`](https://github.com/phiat/claude-esp) &nbsp; by &nbsp; [phiat](https://github.com/phiat)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Go-based TUI that streams Claude Code's hidden output (thinking, tool calls, subagents) to a separate terminal. Watch multiple sessions simultaneously, filter by content type, and track background tasks. Ideal for debugging or understanding what Claude is doing under the hood without interrupting your main session.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for claude-esp](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-esp&username=phiat&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
 
 ## Contents [🔝](#awesome-claude-code)
 
@@ -1969,17 +1936,6 @@ Focuses on Gene Ontology annotation integration in graph databases, handling mul
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for torchcell](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=torchcell&username=Mjvolk3&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`/mermaid`](https://github.com/GaloyMoney/lana-bank/blob/main/.claude/commands/mermaid.md) &nbsp; by &nbsp; [GaloyMoney](https://github.com/GaloyMoney)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
-Generates Mermaid diagrams from SQL schema files, creating entity relationship diagrams with table properties, validating diagram compilation, and ensuring complete entity coverage.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for lana-bank](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=lana-bank&username=GaloyMoney&all_stats=true&stats_only=true)
 
 </details>
 <br>
